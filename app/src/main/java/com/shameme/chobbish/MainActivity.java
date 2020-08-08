@@ -2,7 +2,6 @@ package com.shameme.chobbish;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
-
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -111,3 +110,5 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+
